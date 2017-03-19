@@ -42,6 +42,9 @@
       <HintPath>..\packages\Moq.4.2.1507.0118\lib\net40\Moq.dll</HintPath>
       <Private>True</Private>
     </Reference>
+    <Reference Include="Newtonsoft.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.9.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
     <Reference Include="nunit.core, Version=2.6.4.14350, Culture=neutral, PublicKeyToken=96d09a1eb7f44a77, processorArchitecture=MSIL">
       <HintPath>..\packages\NUnitTestAdapter.2.0.0\lib\nunit.core.dll</HintPath>
       <Private>False</Private>
@@ -83,7 +86,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\UltimateTeam.Toolkit\UltimateTeam.Toolkit.csproj">
-      <Project>{a761d7bc-c308-4ac5-8e9d-dfb02cafe9cc}</Project>
+      <Project>{4a396eba-0b7d-41e2-9088-fb3c40efa76f}</Project>
       <Name>UltimateTeam.Toolkit</Name>
     </ProjectReference>
   </ItemGroup>
