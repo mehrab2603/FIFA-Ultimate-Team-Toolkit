@@ -9,6 +9,7 @@ assembly_info:
 
 before_build:
 - cmd: dotnet restore
+- cmd: nuget restore
 
 build:
   project: UltimateTeam.Toolkit.sln
