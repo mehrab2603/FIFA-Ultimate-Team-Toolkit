@@ -5,15 +5,15 @@ using System.Runtime.CompilerServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("UltimateTeam.Toolkit")]
-[assembly: AssemblyDescription("FIFA Ultimate Team 2015 Toolkit")]
-[assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("UltimateTeam.Toolkit")]
-[assembly: AssemblyCopyright("Copyright ©  2014")]
-[assembly: AssemblyTrademark("")]
-[assembly: AssemblyCulture("")]
-[assembly: NeutralResourcesLanguage("en")]
+// [assembly: AssemblyTitle("UltimateTeam.Toolkit")]
+// [assembly: AssemblyDescription("FIFA Ultimate Team 2015 Toolkit")]
+// [assembly: AssemblyConfiguration("")]
+// [assembly: AssemblyCompany("")]
+// [assembly: AssemblyProduct("UltimateTeam.Toolkit")]
+// [assembly: AssemblyCopyright("Copyright ©  2014")]
+// [assembly: AssemblyTrademark("")]
+// [assembly: AssemblyCulture("")]
+// [assembly: NeutralResourcesLanguage("en")]
 
 // Version information for an assembly consists of the following four values:
 //
